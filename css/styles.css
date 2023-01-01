@@ -2,6 +2,7 @@
 body {
     text-align: center;
     background-color: #70416D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #E4F2F0;
     margin: 0;
 }
@@ -42,9 +43,12 @@ hr {
     width: 40px;
     margin-left: 600px;
 }
+.tagline {
+    font-family: 'Short Stack', cursive;
+}
 .wordart {
-    height: 500px;
-    width: 700px;
+    height: 700px;
+    width: 900px;
 }
 
 .top {
