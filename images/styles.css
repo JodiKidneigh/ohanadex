@@ -1,0 +1,80 @@
+/**********Tag Selectors**********/
+body {
+    text-align: center;
+    background-color: #70416D;
+    font-family: 'Short Stack', cursive;
+    color: #74ccbc;
+    margin: 0;
+}
+
+
+
+h1 {
+    color:#74ccbc;
+    margin-top: 0;
+    font-family: 'Original Surfer', cursive;
+    font-size: 100px;
+}
+h3 {
+    color:#74ccbc;
+    font-size: 50px;
+}
+
+h5  {
+    color: #E4F2F0;
+    font-style: italic;
+    font-size: 30px;
+}
+
+hr {
+    border-style: none;
+    border-top: 5px dotted #99D8D0 ;
+   
+    height: 5px;  
+    width: 8%; 
+}
+
+.bubble{
+    height: 150px;
+    width: 100px;
+}
+.smbubble{
+    height: 75px;
+    width: 40px;
+    margin-left: 600px;
+}
+.tagline {
+    font-family: 'Short Stack', cursive;
+}
+.littleOh {
+    height: 1200px;
+    width: 1500px;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-right-radius: 25%;
+    border-top-left-radius: 25%;
+    align-content: center;
+}
+
+.top {
+    height: 200px;
+    width: 200px;
+    background-color:coral;
+    border: 10px solid black;
+    padding: 20px;
+}
+.middle {
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    border: 20px solid black;
+    margin-left: 260px;
+    
+}
+.bottom {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid black;
+    margin-left: 500px;
+} 
