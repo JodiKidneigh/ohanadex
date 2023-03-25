@@ -2,20 +2,21 @@
 body {
     text-align: center;
     background-color: #70416D;
-    color: #E4F2F0;
+    font-family: 'Short Stack', cursive;
+    color: #74ccbc;
     margin: 0;
 }
 
 
 
 h1 {
-    color:#99D8D0;
+    color:#74ccbc;
     margin-top: 0;
     font-family: 'Original Surfer', cursive;
     font-size: 100px;
 }
 h3 {
-    color:#99D8D0;
+    color:#74ccbc;
     font-size: 50px;
 }
 
@@ -45,9 +46,14 @@ hr {
 .tagline {
     font-family: 'Short Stack', cursive;
 }
-.wordart {
-    height: 700px;
-    width: 900px;
+.littleOh {
+    height: 1200px;
+    width: 1500px;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-right-radius: 25%;
+    border-top-left-radius: 25%;
+    align-content: center;
 }
 
 .top {
